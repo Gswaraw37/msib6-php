@@ -1,7 +1,3 @@
-<?php
-    session_start(); // sesi tangkap login
-?>
-
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"> 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1>FORM LOGIN</h1>
